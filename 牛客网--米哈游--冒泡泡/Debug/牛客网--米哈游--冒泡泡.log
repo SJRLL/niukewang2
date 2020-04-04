@@ -1,0 +1,13 @@
+﻿生成启动时间为 2020/4/3 20:31:58。
+     1>项目“D:\VS Projects\牛客网--米哈游--冒泡泡\牛客网--米哈游--冒泡泡\牛客网--米哈游--冒泡泡.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\BaiduNetdiskDownload\vs安装\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Test.cpp
+         Test.cpp
+     1>d:\vs projects\牛客网--米哈游--冒泡泡\牛客网--米哈游--冒泡泡\test.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs projects\牛客网--米哈游--冒泡泡\牛客网--米哈游--冒泡泡\test.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\vs projects\牛客网--米哈游--冒泡泡\牛客网--米哈游--冒泡泡\test.cpp(47): fatal error C1075: 与左侧的 大括号“{”(位于“d:\vs projects\牛客网--米哈游--冒泡泡\牛客网--米哈游--冒泡泡\test.cpp(5)”)匹配之前遇到文件结束
+     1>已完成生成项目“D:\VS Projects\牛客网--米哈游--冒泡泡\牛客网--米哈游--冒泡泡\牛客网--米哈游--冒泡泡.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.44
